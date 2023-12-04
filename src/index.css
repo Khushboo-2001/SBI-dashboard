@@ -1,0 +1,48 @@
+*{
+    margin: 3%;
+    background: transparent;
+   
+}
+.main{
+   margin-left: 30%;
+    text-align: center;
+    padding: 0%;
+    background-color: rgb(0, 224, 224);
+    border-radius: 10px;
+    width: 500px;;
+    height: 500px;  
+    box-shadow: 5px 4px 8px 5px rgba(0, 0, 0, 0.459);   
+}
+
+h1{
+    padding: 30px;
+    font-size: 3rem;
+    
+    
+}
+
+label{
+    font-weight: 900;
+    font-size: 1.7rem;  
+    padding: 10px; 
+}
+
+select{
+    font-size: 1.3rem;
+}
+
+.search{
+    background-color: transparent;
+    padding-bottom: 30px;
+}
+
+.info{
+    
+   
+    text-align:center;
+    font-size: 1.3rem;    
+}
+
+.info div{
+    margin: 10px;
+}
